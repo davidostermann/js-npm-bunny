@@ -1,0 +1,23 @@
+{
+  "name": "talkingbunny",
+  "version": "1.0.0",
+  "description": "lapin qui parle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplonco/js-npm-bunny.git"
+  },
+  "author": "davidostermann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplonco/js-npm-bunny/issues"
+  },
+  "homepage": "https://github.com/simplonco/js-npm-bunny#readme",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "sign-bunny": "^1.0.0"
+  }
+}
